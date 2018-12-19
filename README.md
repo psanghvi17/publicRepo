@@ -1,2 +1,2 @@
 # publicRepo
-Its a public Repo
+It's a public Repo
